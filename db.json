@@ -3,6 +3,22 @@
     {
       "id": 1,
       "name": "Myra"
+    },
+    {
+      "name": "Brandy Carter",
+      "id": 2
+    },
+    {
+      "name": "Lora Koelpin",
+      "id": 3
+    },
+    {
+      "name": "Felipe Breitenberg",
+      "id": 4
+    },
+    {
+      "name": "Loren Boehm",
+      "id": 5
     }
   ],
   "albums": [],
