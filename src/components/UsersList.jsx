@@ -5,6 +5,7 @@ import Button from "./Button";
 import Skeleton from "./Skeleton";
 import { useThunk } from "../hooks/use-thunk";
 var testHusky;
+var testLintStaged;
 
 const UsersList = () => {
   const [doFetchUsers, isLoadingUsers, loadingUsersError] =
