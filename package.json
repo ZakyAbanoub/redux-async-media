@@ -7,7 +7,7 @@
         "dev": "vite",
         "dev:server": "json-server --watch db.json --port 3005",
         "build": "vite build",
-        "lint": "eslint src --ext js,jsx  --max-warnings 0",
+        "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
         "preview": "vite preview",
         "prepare": "husky install"
     },
@@ -40,8 +40,6 @@
         "husky": "^8.0.0"
     },
     "lint-staged": {
-        "src/**/*.{js,html,css}": "prettier --write",
-        "src/**/*.js": "eslint",
         "*.{js,css,ts,tsx,jsx}": [
             "prettier --write"
         ]
