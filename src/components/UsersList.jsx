@@ -4,7 +4,7 @@ import { fetchUsers, addUser } from "../store";
 import Button from "./Button";
 import Skeleton from "./Skeleton";
 import { useThunk } from "../hooks/use-thunk";
-var test;
+var testHusky;
 
 const UsersList = () => {
   const [doFetchUsers, isLoadingUsers, loadingUsersError] =

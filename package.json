@@ -40,7 +40,7 @@
         "husky": "^8.0.0"
     },
     "lint-staged": {
-        "*.{js,css,ts,tsx,jsx": [
+        "*.{js,css,ts,tsx,jsx}": [
             "prettier --write",
             "eslint --fix"
         ]
