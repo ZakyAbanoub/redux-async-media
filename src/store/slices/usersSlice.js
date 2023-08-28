@@ -43,7 +43,6 @@ const usersSlice = createSlice({
       state.isLoading = true;
     });
     builder.addCase(deleteUser.fulfilled, (state, action) => {
-      console.log({ action });
       state.isLoading = false;
       state.data = state.data.filter((user) => user.id !== action.payload);
     });
