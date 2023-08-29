@@ -11,90 +11,6 @@
     {
       "name": "Lena Weissnat",
       "id": 11
-    },
-    {
-      "name": "Ann Hoppe",
-      "id": 12
-    },
-    {
-      "name": "Robert Auer",
-      "id": 13
-    },
-    {
-      "name": "Roxanne Kerluke Sr.",
-      "id": 14
-    },
-    {
-      "name": "Seth Welch",
-      "id": 15
-    },
-    {
-      "name": "Shelly Oberbrunner",
-      "id": 16
-    },
-    {
-      "name": "Martin Haley",
-      "id": 17
-    },
-    {
-      "name": "Elbert Weimann",
-      "id": 18
-    },
-    {
-      "name": "Nicole Herzog",
-      "id": 19
-    },
-    {
-      "name": "Gayle Champlin",
-      "id": 20
-    },
-    {
-      "name": "Nathaniel Huels",
-      "id": 21
-    },
-    {
-      "name": "Glen Stamm PhD",
-      "id": 22
-    },
-    {
-      "name": "Darryl Runolfsson",
-      "id": 23
-    },
-    {
-      "name": "Keith Kohler I",
-      "id": 25
-    },
-    {
-      "name": "Elbert Durgan",
-      "id": 26
-    },
-    {
-      "name": "Dr. Clinton Ondricka III",
-      "id": 27
-    },
-    {
-      "name": "Kristy Mohr",
-      "id": 28
-    },
-    {
-      "name": "Rosie Gerlach",
-      "id": 29
-    },
-    {
-      "name": "Georgia Kling",
-      "id": 30
-    },
-    {
-      "name": "Deanna Boehm",
-      "id": 31
-    },
-    {
-      "name": "Kristi Stamm II",
-      "id": 33
-    },
-    {
-      "name": "Mr. Jon Mayer-Braun",
-      "id": 35
     }
   ],
   "albums": [
@@ -102,21 +18,6 @@
       "userId": 10,
       "title": "Small Steel Salad",
       "id": 17
-    },
-    {
-      "userId": 12,
-      "title": "Tasty Rubber Cheese",
-      "id": 18
-    },
-    {
-      "userId": 12,
-      "title": "Rustic Cotton Shoes",
-      "id": 19
-    },
-    {
-      "userId": 5,
-      "title": "Handcrafted Rubber Gloves",
-      "id": 22
     },
     {
       "userId": 5,
@@ -129,9 +30,14 @@
       "id": 24
     },
     {
+      "userId": 11,
+      "title": "Luxurious Bronze Mouse",
+      "id": 26
+    },
+    {
       "userId": 5,
-      "title": "Unbranded Steel Towels",
-      "id": 25
+      "title": "Modern Granite Table",
+      "id": 27
     }
   ],
   "photos": []
