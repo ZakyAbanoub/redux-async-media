@@ -40,5 +40,16 @@
       "id": 27
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 23,
+      "url": "https://picsum.photos/seed/CbRpzw9na/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/640/480?lock=2610812690628608",
+      "id": 2
+    }
+  ]
 }
